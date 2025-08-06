@@ -3,7 +3,8 @@
 Here are some ideas to get you started:
 -->
 
-<h1 align="center">Hi there👋, I'm Somanshu Gupta</h1>
+<h1 align="center">Hi there👋, I'm Somanshu Gupta</h1> 
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Somanshu693&label=Profile%20views&color=0e75b6&style=flat" alt="Somanshu693" /> </p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4BC7F7&center=true&vCenter=true&width=600&lines=Data+Engineer+%7C+Analytics+Nerd;Passionate+about+solving+real-world+problems" alt="Typing SVG" />
 </p>
@@ -40,5 +41,4 @@ Here are some ideas to get you started:
 
 
 ## 🤝 Connect with me
-
-<a href="https://www.linkedin.com/in/somanshugupta">![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a> 
+<a href="https://www.linkedin.com/in/somanshugupta">![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
