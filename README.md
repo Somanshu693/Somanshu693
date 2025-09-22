@@ -9,7 +9,7 @@ Here are some ideas to get you started:
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4BC7F7&center=true&vCenter=true&width=600&lines=Data+Engineer+%7C+Analytics+Nerd;Passionate+about+solving+real-world+problems" alt="Typing SVG" />
 </p>
 
-- 🎓 Currently a graduate student at **Delhi Technological University** pursuing **Masters of Technology in Data Science**.
+- 🎓 Currently a post-graduate student at **Delhi Technological University** pursuing **Masters of Technology in Data Science**.
 - 🌱 Exploring **Apache Spark**, **Kafka**, **Airflow**, **Cloud Platforms (GCP/AWS)**, and **MLOps**
 - 💬 Ask me about **Data Engineering, Data Analytics, and good movie recommendations!**
 - 📫 How to reach me: **[work.somanshu@gmail.com](mailto:work.somanshu@gmail.com)**
